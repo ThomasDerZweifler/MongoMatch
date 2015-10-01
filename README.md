@@ -1,5 +1,7 @@
 # MongoSync
 
+> Experimental. I use it, it works. Use it at your own risk and test! 
+
 Keep two mongo databases in sync - with stipulations :)
 
  - databases should use uuid ids and not the default mongo ObjectID
